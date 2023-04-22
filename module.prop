@@ -1,0 +1,6 @@
+id=replace_miuicalendar
+name=MIUI日历替换
+version=v1.0.2
+versionCode=3
+author=Webpage
+description=替换国际版MIUI日历为国内版。因为包名不同，可能需要手动卸载国际版日历
