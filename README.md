@@ -6,4 +6,8 @@
 
 ## 安装
 
-<del>您可以在 [Release](https://github.com/Webpage-gh/replace_miuicalendar/releases/) 找到最新版本，之后打开 Magisk 并从本地安装。（它应该也适用于 Kernel SU）</del>Coming soon ..
+您可以在 [Release](https://github.com/Webpage-gh/replace_miuicalendar/releases/) 找到最新版本，之后打开 Magisk 并从本地安装。（它应该也适用于 Kernel SU）
+
+### 使用
+
+我们建议您在安装模块之后备份并卸载国际版小米日历，如果您有更新过它。
